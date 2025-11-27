@@ -1,6 +1,6 @@
 package test;
 
-public class Test1 {
+public class Test 0.11120_java {
 
 	public static void main(String[] args) {
 		// 변수 : 변하는 수, 기억장소에 형을 지정, 이름을 정의하고 값을 저장
@@ -117,3 +117,4 @@ public class Test1 {
 	}
 
 }
+
