@@ -1,6 +1,6 @@
 package test;
 
-public class Test2 {
+public class Test 0.21120_java {
 
 	public static void main(String[] args) {
 //		컴퓨터 데이터 0, 1 저장 => 1bit => 1byte(8bit) => 4byte(32bit)
@@ -59,3 +59,4 @@ public class Test2 {
 	}
 
 }
+
