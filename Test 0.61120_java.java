@@ -1,6 +1,6 @@
 package test;
 
-public class Test4 {
+public class Test 0.61120_java {
 
 	public static void main(String[] args) {
 		// p62 형변환
@@ -118,3 +118,4 @@ public class Test4 {
 	}
 
 }
+
