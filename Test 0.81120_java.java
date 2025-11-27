@@ -1,6 +1,6 @@
 package test;
 
-public class Test6 {
+public class Test 0.81120_java {
 
 	public static void main(String[] args) {
 //		p70 기본연산자
@@ -17,3 +17,4 @@ public class Test6 {
 	}
 
 }
+
