@@ -1,6 +1,6 @@
 package test;
 
-public class Test5 {
+public class Test 0.71120_java {
 
 	public static void main(String[] args) {
 //		변수 = 변수에 저장된 값(대입연산자, 할당연산자)
@@ -74,3 +74,4 @@ public class Test5 {
 	}
 
 }
+
