@@ -1,6 +1,6 @@
 package test;
 
-public class Test2 {
+public class Test 0.41120_java {
 
 	public static void main(String[] args) {
 //		1. 기본 자료형
@@ -26,3 +26,4 @@ public class Test2 {
 	}
 
 }
+
